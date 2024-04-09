@@ -37,6 +37,7 @@ python file_organizer.py <directory> [options]
 ## Options
 
 --criteria <criteria>: Specifies the organization criteria as a comma-separated list (date, type, size). Defaults to type if not specified.
+
 -v, --verbose: Enables verbose mode, printing detailed information about file movements.
 
 ## Examples
