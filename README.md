@@ -21,7 +21,7 @@ The File Organizer Script is a Python-based utility designed to help users autom
 No installation is necessary beyond having Python 3.x installed on your system. To get started with the File Organizer Script, clone this repository or download the script to your local machine:
 
 ```bash
-git clone https://github.com/carlosdelcorral/file-organizer.git
+git clone https://github.com/carlosdelcorral/python_file_organizer.git
 ```
 
 ## Usage
