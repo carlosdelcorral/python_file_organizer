@@ -32,7 +32,7 @@ python file_organizer.py <directory> [options]
 
 ## Arguments
 
-<directory>: Path to the directory you wish to organize.
+`<directory>`: Path to the directory you wish to organize.
 
 ## Options
 
